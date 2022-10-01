@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\source\discordbot-api\DiscordBotAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-09-15T10:26:39.4870368Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
